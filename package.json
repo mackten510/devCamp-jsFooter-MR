@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-jsfooter-mr",
+  "version": "0.1.0",
+  "description": "This module is instructed by Jordan. A dynamic footer generated with updated year and name. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackten510/devCamp-jsFooter-MR.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Mack R/ Jordan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mackten510/devCamp-jsFooter-MR/issues"
+  },
+  "homepage": "https://github.com/mackten510/devCamp-jsFooter-MR#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
