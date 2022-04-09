@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/mackten510/devCamp-jsFooter-MR#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
